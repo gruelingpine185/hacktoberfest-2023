@@ -1,4 +1,4 @@
-// clang hw.c -o c_hw
+// clang hello_world/hw.c -o c_hw
 
 
 #include <stdio.h>
