@@ -1,0 +1,5 @@
+hw_*
+
+# bear
+compile_commands.json
+.cache/
