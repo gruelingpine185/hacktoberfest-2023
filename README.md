@@ -5,7 +5,7 @@ Welcome to the 2023 Hacktoberfest! In this repository, I'd like to see how many 
 The rules are simple:
 
 - Make a Hello World program in a unique language.
-- If you are up for a challenge, help create a HTML5 Canvas game in `./games/`.
+- Help create a website that takes your hello world programs and displays them to the world.
 - Lastly, if you wish, star and share this repository.
 
 Be sure to follow the steps in the [CONTRIBUTING.md](./CONTRIBUTING.md) file. And remember to have fun :)
