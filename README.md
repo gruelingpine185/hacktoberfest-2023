@@ -8,4 +8,4 @@ The rules are simple:
 - Help create a website that takes your hello world programs and displays them to the world.
 - Lastly, if you wish, star and share this repository.
 
-Be sure to follow the steps in the [CONTRIBUTING.md](./CONTRIBUTING.md) file. And remember to have fun :)
+__Be sure to follow the steps in the [CONTRIBUTING.md](./CONTRIBUTING.md) file. And remember to have fun :)__
