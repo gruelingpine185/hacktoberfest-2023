@@ -2,7 +2,7 @@
 
 Welcome to the 2023 Hacktoberfest! In this repository, I'd like to see how many languages the Github community knows. 
 
-__Unfortunately, the content that I have on this repo at the time of evaluation didn't align with the values of the event, so this repository has been excluded from the event. You can still get commits and your PR as you normally would.__
+__Unfortunately, the content that I have on this repo at the time of evaluation didn't align with the values of the event, so this repository has been excluded from the event. You can still get commits and your PR as you normally would, but they will no longer count towards the Hacktoberfest reward.__
 
 The rules are simple:
 
