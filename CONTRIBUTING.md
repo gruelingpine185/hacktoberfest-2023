@@ -37,7 +37,7 @@ The branch name can be anything, but ideally it should be a one to three word su
 
 At this point, everything is setup for you to make your changes to the repository.
 
-Name your file `hw.<file-extension>` and place it in the `./hellow_world/` directory. At the top of your file, add a comment to to show what command to use to compile, interpret, or run your program. The output file should be named `<file-extension>_hw` to avoid conflicts with other programs. See [my C file](./hello_world/hw.c) for an example. If necessary, add any build files to the `.gitignore`.
+Name your file `hw.<file-extension>` and place it in the `./hellow_world/` directory.
 
 The goal is to have fun and learn. Once you are ready to save your changes, add and commit them.
 
